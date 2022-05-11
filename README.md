@@ -26,7 +26,7 @@ go run main.go
   ```
   {
     "name":"Sayed Haque",
-    "salary":1234567,
+    "salary":87654321,
     "age":29
   }
   ```
