@@ -27,7 +27,7 @@ go run main.go
   {
     "name":"Sayed Haque",
     "salary":1234567,
-    "age":29
+    "city":"Los Angeles"
   }
   ```
   * Create a GET request to get all data with http://localhost:3000/employee
@@ -36,7 +36,7 @@ go run main.go
   {
     "name":"Sayed Haque",
     "salary":87654321,
-    "age":29
+    "city":"Los Angeles"
   }
   ```
   * Create a DELETE request with http://localhost:3000/employee/627af1fa0903ad2cbc8f6c21 (<-- the 627xxxxxxx is the ID of the data, can be changed to desired data that needs to be deleted)
